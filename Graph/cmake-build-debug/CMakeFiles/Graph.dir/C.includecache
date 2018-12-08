@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cyc/Algorithm/Graph/graph.c
+graph.h
+/home/cyc/Algorithm/Graph/graph.h
+
+/home/cyc/Algorithm/Graph/graph.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/cyc/Algorithm/Graph/main.c
+stdio.h
+-
+graph.h
+/home/cyc/Algorithm/Graph/graph.h
+

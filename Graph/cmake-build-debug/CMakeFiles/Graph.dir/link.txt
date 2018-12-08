@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Graph.dir/main.c.o CMakeFiles/Graph.dir/graph.c.o CMakeFiles/Graph.dir/dijkstra.c.o  -o Graph 
